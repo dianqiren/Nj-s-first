@@ -1,2 +1,4 @@
-# Nj-s-first
-git study
+#GitHub 使用熟悉
+---
+*单人开发
+*多人开发
